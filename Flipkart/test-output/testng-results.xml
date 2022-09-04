@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-05T02:11:42 IST" name="Default suite" finished-at="2022-09-05T02:11:57 IST" duration-ms="15098">
+    <groups>
+    </groups>
+    <test started-at="2022-09-05T02:11:42 IST" name="Default test" finished-at="2022-09-05T02:11:57 IST" duration-ms="15098">
+      <class name="flipkart.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUpDataProvider()[pri:0, instance:flipkart.testcases.HomePageTest@18078bef]" started-at="2022-09-05T02:11:40 IST" name="setUpDataProvider" finished-at="2022-09-05T02:11:42 IST" duration-ms="1397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDataProvider -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:flipkart.testcases.HomePageTest@18078bef]" started-at="2022-09-05T02:11:42 IST" name="setUp" finished-at="2022-09-05T02:11:55 IST" duration-ms="13088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="FlipkartHome()[pri:0, instance:flipkart.testcases.HomePageTest@18078bef]" started-at="2022-09-05T02:11:55 IST" name="FlipkartHome" finished-at="2022-09-05T02:11:55 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlipkartHome -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:flipkart.testcases.HomePageTest@18078bef]" started-at="2022-09-05T02:11:55 IST" name="tearDownMethod" finished-at="2022-09-05T02:11:56 IST" duration-ms="856" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=FlipkartHome status=SUCCESS method=HomePageTest.FlipkartHome()[pri:0, instance:flipkart.testcases.HomePageTest@18078bef] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:flipkart.testcases.HomePageTest@18078bef]" started-at="2022-09-05T02:11:56 IST" name="tearDown" finished-at="2022-09-05T02:11:57 IST" duration-ms="859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- flipkart.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
